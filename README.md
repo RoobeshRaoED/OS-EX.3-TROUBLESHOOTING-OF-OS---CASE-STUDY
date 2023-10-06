@@ -8,7 +8,7 @@ To Trouble shooting a computer for common fixes
 
 ### Step 1:
 
-![](3.1.png)
+![](3.1.jpg)
 
 Reboot your computer. It may seem like a simple suggestion, but
 rebooting your computer will fix many of the problems you may be having.
@@ -22,7 +22,7 @@ getting any power.
 
 ### Step 2:
 
-![](3.2.png)
+![](3.2.jpg)
 
 Try to determine what caused the problem you are having. Think back to
 when the computer started having issues. Was a certain program installed,
@@ -34,7 +34,7 @@ to proceed.
 
 ### Step 3:
 
-![](3.3.png)
+![](3.3.jpg)
 
 Check all of the cables. A loose power cable could be preventing your
 computer from booting up. A bad surge protector could be the culprit.
@@ -44,7 +44,7 @@ moment
 
 ### Step 4:
 
-![](3.4.png)
+![](3.4.jpg)
 
 Perform a Google search for the problem you're experiencing. There
 are countless issues your computer could be experiencing. Problems
